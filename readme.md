@@ -32,7 +32,7 @@ Seasoned Senior Software Engineer with rich experience, specializing in AI and F
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=top-developer777&repo=llama_voice_chatbot_multi_language)](https://github.com/top-developer777/llama_voice_chatbot_multi_language)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=top-developer777&repo=chatbot_rag_llama)](https://github.com/phoenix19950512/chatbot_rag_llama)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=top-developer777&repo=chatbot_rag_llama)](https://github.com/top-developer777/chatbot_rag_llama)
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
