@@ -1,31 +1,38 @@
 # Hello! 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=phoenix19950512&style=flat-square)
+## 😎 Who Am I?
 
-I'm a passionate AI and Web researcher and developer with a strong background in machine learning, computer vision, large language models, and web frameworks. I love exploring new technologies and contributing to impactful projects.
+Seasoned Senior Software Engineer with rich experience, specializing in AI and Full-stack development. Expert in delivering innovative solutions and integrating advanced AI technologies to enhance application functionality and user experience. Proven track record in managing hybrid and remote work environments.
 
-Please visit my [website](https://phoenix19950512.github.io).
+<!-- Please visit my [website](https://phoenix19950512.github.io). -->
 
 ## 🚀 About Me
 
-- 🔭 **Current Focus:** Working on innovative AI projects and integrating AI in web pages, and contributing to open-source communities
-- 🌱 **Learning:** Advanced topics in fashion web frameworks, deep learning and neural networks
-- 💬 **Ask me about:** Web, AI, ML, Computer Vision, NLP, Large Language Models, and so on.
-- 📫 **How to reach me:** [phoenix19950512@gmail.com](mailto:phoenix19950512@gmail.com)
-- ⚡ **Fun fact:** I'm a big fan of sci-fi movies and love hiking in my free time
+- ✔ **Front-end Development:** Next.js, React.js ,React Native, Flutter, FlutterFlow, Angular.js, Vue.js, Javascript(ES+6), TypeScript, HTML5, CSS3, JQuery.
+- ✔ **CSS Framework**: ShadCN, TailwindCSS, MaterialUI, ChakraUI, SCSS, AntDesign, Bootstrap
+- ✔ **Back-end Development**: Node.js, Express.js, PHP, Laravel, Python, FastAPI, Django, Flask
+- ✔ **API Technology**: Restful API, Socket API, GraphQL
+- ✔ **AI Integration**: AI Chatbot, GPT, Generative AI Art, DALL-E, RAG System.
+- ✔ **Database Management**: MySQL, MongoDB, PostgreSQL, OracleDB
+- ✔ **Version Control**: Git, GitHub, GitLab, SVN
+- ✔ **Deployment and Cloud Technologies**: AWS, GCP, Azure, Heroku
+- ✔ **Testing and Debugging**: Jest, Mocha, Chai, Postman
+- ✔ **UI/UX Design Principles**
+
+💬 **Ask me about:** Web, AI, ML, Computer Vision, NLP, DevOps, MLOps, and so on.
+
+📫 **How to reach me:** [oskarjacobs02@gmail.com](mailto:oskarjacobs02@gmail.com)
 
 ## 🛠️ Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,aws,ai,tensorflow,pytorch,opencv,sklearn,nextjs,react,angular,svelte,vue,ts,django,fastapi,flask,express,nestjs,laravel,mysql,mongodb,prisma,postgres,tailwind,selenium,bots,js,php,css,html,c,cs,cpp,dotnet,github" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,aws,gcp,azure,docker,kubernetes,opencv,sklearn,nextjs,react,angular,django,fastapi,flask,express,nestjs,laravel,mysql,mongodb,prisma,postgres,tailwind,selenium,ts,js,php,css,html,cs,cpp,dotnet,github" />
 </p>
 
 ## 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix19950512&repo=Open-WebUI)](https://github.com/phoenix19950512/Open-WebUI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=top-developer777&repo=llama_voice_chatbot_multi_language)](https://github.com/top-developer777/llama_voice_chatbot_multi_language)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix19950512&repo=Smart-School-Site)](https://github.com/phoenix19950512/Smart-School-Site)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenix19950512&repo=Milkdown-website)](https://github.com/phoenix19950512/Milkdown-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=top-developer777&repo=chatbot_rag_llama)](https://github.com/phoenix19950512/chatbot_rag_llama)
 
 ## 📜 License
 
