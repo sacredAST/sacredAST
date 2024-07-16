@@ -34,6 +34,10 @@ Seasoned Senior Software Engineer with rich experience, specializing in AI and F
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=top-developer777&repo=chatbot_rag_llama)](https://github.com/phoenix19950512/chatbot_rag_llama)
 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 ## 📜 License
 
 This profile and all its content are licensed under the [MIT License](LICENSE).
