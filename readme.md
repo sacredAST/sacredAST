@@ -1,8 +1,8 @@
-# Hello! 👋
+# Hello! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 ## 😎 Who Am I?
 
-Seasoned Senior Software Engineer with rich experience, specializing in AI and Full-stack development. Expert in delivering innovative solutions and integrating advanced AI technologies to enhance application functionality and user experience. Proven track record in managing hybrid and remote work environments.
+I am passionate Software Engineer with rich experience, specializing in Generative AI / LLMs and Full-stack development. Expert in delivering innovative solutions and integrating advanced AI technologies to enhance application functionality and user experience. I love exploring new technologies and contributing to impactful projects.
 
 <!-- Please visit my [website](https://phoenix19950512.github.io). -->
 
@@ -21,7 +21,15 @@ Seasoned Senior Software Engineer with rich experience, specializing in AI and F
 
 💬 **Ask me about:** Web, AI, ML, Computer Vision, NLP, DevOps, MLOps, and so on.
 
-📫 **How to reach me:** [oskarjacobs02@gmail.com](mailto:oskarjacobs02@gmail.com)
+📫 **How to reach me:** [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:oskarjacobs02@gmail.com) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
+
+<img src="https://komarev.com/ghpvc/?username=top-developer777&style=for-the-badge&color=orange" alt=""/>
+
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-05.gif" width="60px" style="margin-right: 10px;">
+  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif" width="60px" style="margin-right: 10px;">
+  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" width="60px" style="margin-right: 10px;">
+</p>
 
 ## 🛠️ Skills
 <p align="center">
