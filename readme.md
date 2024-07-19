@@ -8,6 +8,8 @@ I am passionate Software Engineer with rich experience, specializing in Generati
 
 ## 🚀 About Me
 
+🔭 **Current Focus:** Finding new Jobs.
+
 - ✔ **Front-end Development:** Next.js, React.js ,React Native, Flutter, FlutterFlow, Angular.js, Vue.js, Javascript(ES+6), TypeScript, HTML5, CSS3, JQuery.
 - ✔ **CSS Framework**: ShadCN, TailwindCSS, MaterialUI, ChakraUI, SCSS, AntDesign, Bootstrap
 - ✔ **Back-end Development**: Node.js, Express.js, PHP, Laravel, Python, FastAPI, Django, Flask
