@@ -4,8 +4,6 @@
 
 Seasoned Senior Software Engineer with rich experience, specializing in AI and Full-stack development. Expert in delivering innovative solutions and integrating advanced AI technologies to enhance application functionality and user experience. Proven track record in managing hybrid and remote work environments.
 
-<!-- Please visit my [website](https://phoenix19950512.github.io). -->
-
 ## 🚀 About Me
 
 - 🏆 **Front-end Development:** Next.js, React.js ,React Native, Flutter, FlutterFlow, Angular.js, Vue.js, Javascript(ES+6), TypeScript, HTML5, CSS3, JQuery.
