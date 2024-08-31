@@ -306,6 +306,8 @@ Seasoned Senior Software Engineer with rich experience, specializing in AI and F
 
 ## 📌 Pinned Repositories
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sacredAST&repo=resume-generator)](https://github.com/sacredAST/resume-generator)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sacredAST&repo=llama_voice_chatbot_multi_language)](https://github.com/sacredAST/llama_voice_chatbot_multi_language)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sacredAST&repo=chatbot_rag_llama)](https://github.com/sacredAST/chatbot_rag_llama)
