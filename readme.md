@@ -19,8 +19,6 @@ Seasoned Senior Software Engineer with rich experience, specializing in AI and F
 
 💬 **Ask me about:** Web, AI, ML, Computer Vision, NLP, DevOps, MLOps, and so on.
 
-📫 **How to reach me:** [oskarjacobs02@gmail.com](mailto:oskarjacobs02@gmail.com)
-
 ## 🛠️ Skills
 <p align="center">
 <table align="center">
