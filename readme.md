@@ -6,6 +6,9 @@ Seasoned Senior Software Engineer with rich experience, specializing in AI and F
 
 ## 🚀 About Me
 
+- 🏆 **Generative AI:** LLMs, Image / Video Generation, Image / Video Editing, Voice Generation
+- 🏆 **LLMs:** Llama, GPT, Gemini, Mistral, BERT, Claude
+- 🏆 **LLM Tools:** LangChain, LlamaIndex, LangWatch, LangGraph, LangSmith, LangFlow
 - 🏆 **Front-end Development:** Next.js, React.js ,React Native, Flutter, FlutterFlow, Angular.js, Vue.js, Javascript(ES+6), TypeScript, HTML5, CSS3, JQuery.
 - 🏆 **CSS Framework**: ShadCN, TailwindCSS, MaterialUI, ChakraUI, SCSS, AntDesign, Bootstrap
 - 🏆 **Back-end Development**: Node.js, Express.js, PHP, Laravel, Python, FastAPI, Django, Flask
